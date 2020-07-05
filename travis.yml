@@ -1,0 +1,7 @@
+language: bash # bashで
+script:
+        echo hello
+        echo Travis CI test in .travis.yml
+        ./saidai_koyaku-test.sh
+
+
